@@ -1,4 +1,4 @@
-# 
+# Enhance Inkscape for macOS with Inkscape for macOS top Action: smart objects & vector export, the #1 action. Includes smart objects and vector export for a smoother and more
 
 
 
